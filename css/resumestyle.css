@@ -5,9 +5,10 @@ h1{
 
 body{
 	color:#eeeeee;
-	background-color:#333333;
+	background-color:#eee;
 	font: normal 14px "Lucida-console", Monoco, Monospace;
 }
+
 
 .header h4{
 	font-weight: normal;
